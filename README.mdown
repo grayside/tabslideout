@@ -26,3 +26,7 @@ http://www.building58.com/examples/images/ in this directory.
 2. Context integration
 3. Block integration: Best option: Investigate how appbar.module defines a new region for itself.
 4. Make images configurable (and explore optional).
+
+## References
+
+My attention was directed to this library in http://drupal.org/node/926408
