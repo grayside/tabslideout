@@ -1,0 +1,4 @@
+name = "Tab Slide Out"
+description = "Provides Drupal integration for the tab-slide-out jquery library."
+core = "6.x"
+dependencies[] = "libraries"
