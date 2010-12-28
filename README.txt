@@ -16,6 +16,10 @@ Libraries module
 http://www.building58.com/examples/images/ in this directory.
 3. Download and enable the Libraries and Tab Slide Out modules.
 
+**Where to Get Tab Slide Out**: 
+* http://plugins.jquery.com/project/tab-slide-out
+* http://www.building58.com/examples/tabSlideOut.html
+
 ## Roadmap
 
 1. Get it working.
